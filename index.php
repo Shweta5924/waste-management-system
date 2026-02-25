@@ -1,4 +1,11 @@
 <?php
+/**
+ * Waste Segregation Monitoring System
+ * @author Shweta (https://github.com/Shweta5924)
+ * @copyright 2026 All Rights Reserved.
+ * Unauthorized copying of this file is strictly prohibited.
+ */
+
 session_start();
 require_once 'config/db.php';
 
