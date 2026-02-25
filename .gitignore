@@ -1,5 +1,5 @@
-# Database configuration
-# config/db.php
+# Database configuration (IMPORTANT: Protects your local password)
+config/db.php
 
 # PHP environment
 .env
@@ -10,6 +10,7 @@
 # OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # IDEs
 .vscode/
