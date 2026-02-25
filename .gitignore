@@ -1,0 +1,20 @@
+# Database configuration
+# config/db.php
+
+# PHP environment
+.env
+
+# XAMPP/Apache
+.htaccess
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Common PHP/Composer
+vendor/
+composer.lock
